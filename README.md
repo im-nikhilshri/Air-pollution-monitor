@@ -1,10 +1,5 @@
 # Air-Pollution-Monitoring-using-IoT-and.-ML
 
-
-![capture](https://user-images.githubusercontent.com/24243687/32483907-ead3f76a-c3c3-11e7-99ef-8548a9e276c9.JPG)
-
-
-
 Data Visualization Part:
 
 Check the jupyter notebook file or download the python file and execute it. Watch the video to get a detailed view:
