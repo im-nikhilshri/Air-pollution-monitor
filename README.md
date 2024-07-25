@@ -7,7 +7,7 @@
 
 Data Visualization Part:
 
-Check the juoyter notebook file or download the python file and execute it. Watch the video to get a detailed view:
+Check the jupyter notebook file or download the python file and execute it. Watch the video to get a detailed view:
 
 
 ![1](https://user-images.githubusercontent.com/24243687/32483460-27ab6da0-c3c2-11e7-9914-3225305ad568.PNG)
