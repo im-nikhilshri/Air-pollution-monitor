@@ -1,14 +1,5 @@
-# Air-Pollution-Monitoring-using-IoT-Data-Viz.-ML
-A prototype developed to collect the real-time data of the different types of pollution gases present in the air and analyzing and visualizing them and doing forecasting tasks
+# Air-Pollution-Monitoring-using-IoT-and.-ML
 
-
-For complete guide, please visit my instructables account: https://www.instructables.com/member/DebadriD
-
-Prototype building :
-
-Node MCU, 1 gas sensor, Internet Connectivity:
-
-Watch Video to get detailed view:
 
 ![capture](https://user-images.githubusercontent.com/24243687/32483907-ead3f76a-c3c3-11e7-99ef-8548a9e276c9.JPG)
 
